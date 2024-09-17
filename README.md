@@ -1,4 +1,4 @@
-#About me 👋
+# About me 👋
 
 - 🔭 I’m currently working los fines de semana como camarero en un restaurante de sushi🍣🍣
 - 🌱 I’m currently learning un grado superior de DAW en el instituto Cendrassos de Figueres
