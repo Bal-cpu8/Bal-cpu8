@@ -1,10 +1,10 @@
 # About me 👋
 
-- 🔭 I’m currently working los fines de semana como camarero en un restaurante de sushi🍣🍣
-- 🌱 I’m currently learning un grado superior de DAW en el instituto Cendrassos de Figueres
-- ⚡ Fun fact me gusta jugar a videojuegos y ir al gym
+- 🔭 I’m currently working n weekends as a waiter in a sushi restaurant🍣🍣
+- 🌱 I’m currently learning a higher DAW degree at the Cendrassos institute in Figueres
+- ⚡ Fun fact I like to play video games and go to the gym
 
-**==Me gustaria aprender todo lo que pueda sobre programación==**
+**==I would like to learn everything I can about programming.==**
 
 <imagen>
  <source media="(prefiere-esquema-de-color: oscuro)" srcset="https://cdn.milenio.com/uploads/media/2014/07/16/bob-esponja-ha-conquistado-tambien.jpeg">
