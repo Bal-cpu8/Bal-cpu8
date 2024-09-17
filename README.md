@@ -1,6 +1,6 @@
 # About me 👋
 
-- 🔭 I’m currently working n weekends as a waiter in a sushi restaurant🍣🍣
+- 🔭 I’m currently working on weekends as a waiter in a sushi restaurant🍣🍣
 - 🌱 I’m currently learning a higher DAW degree at the Cendrassos institute in Figueres
 - ⚡ Fun fact I like to play video games and go to the gym
 
